@@ -12,6 +12,7 @@
 ### Frameworks and Libraries
 - ![nextjs](https://img.shields.io/badge/-Next.js-fff?style=flat&logo=Next.js&logoColor=000) 
 - ![nestjs](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+- ![node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 - ![laravel](https://img.shields.io/badge/-Laravel-E0234E?style=flat&logo=Laravel&logoColor=white)
 - ![react](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=000)
 - ![react native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=React&logoColor=000)
@@ -19,9 +20,9 @@
 - ![tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
 ### Databases
-- !SQL SQL
-- !NoSQL NoSQL
-- !GraphQL GraphQL
+- ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
+- ![mongodb](https://img.shields.io/badge/-MongoDB-E10098?style=flat&logo=MongoDB&logoColor=white)
+- ![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
 
 ### Other Tools
 - !TypeORM TypeORM
