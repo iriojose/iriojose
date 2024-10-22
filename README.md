@@ -6,7 +6,7 @@
 ## Technologies and Tools
 ### Programming Languages
 - <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript" width="60" height="20" /> JavaScript
-- <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white" alt="Go" width="40" height="60" /> Go
+- <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white" alt="Go" width="60" height="20" /> Go
 - <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" width="60" height="20" /> Python
 
 ### Frameworks and Libraries
