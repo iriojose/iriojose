@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello! 👋 I'm Irio Gomez
 
-<!--
-**iriojose/iriojose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍💻 Software engineer with 5 years of experience. Passionate about technology and developing innovative solutions.
 
-Here are some ideas to get you started:
+## Technologies and Tools
+### Programming Languages
+- !JavaScript JavaScript
+- !Go Go
+- !Python Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks and Libraries
+- !Next.js Next.js
+- !NestJS NestJS
+- !Laravel Laravel
+- !React React
+- !React Native React Native
+- !Vue.js Vue.js
+- !Tailwind CSS Tailwind CSS
+
+### Databases
+- !SQL SQL
+- !NoSQL NoSQL
+- !GraphQL GraphQL
+
+### Other Tools
+- !TypeORM TypeORM
+- !Prisma Prisma
+- !AWS AWS
+
+## Connect with Me
+- LinkedIn
