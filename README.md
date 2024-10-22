@@ -21,13 +21,13 @@
 
 ### Databases
 - ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
-- ![mongodb](https://img.shields.io/badge/-MongoDB-E10098?style=flat&logo=MongoDB&logoColor=white)
+- ![mongodb](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 - ![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
 
 ### Other Tools
-- !TypeORM TypeORM
-- !Prisma Prisma
-- !AWS AWS
+- ![typeorm](https://img.shields.io/badge/-TypeORM-FC8406?style=flat&logo=TypeScript&logoColor=white)
+- ![prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white)
+- ![aws](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/iriogomez/)
