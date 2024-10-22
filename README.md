@@ -27,7 +27,7 @@
 ### Other Tools
 - ![typeorm](https://img.shields.io/badge/-TypeORM-FC8406?style=flat&logo=TypeScript&logoColor=white)
 - ![prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white)
-- ![aws](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon_web_services&logoColor=white)
+- ![aws](![Static Badge](https://img.shields.io/badge/-AWS-000?logo=amazon%20web%20services)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/iriogomez/)
