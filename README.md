@@ -10,7 +10,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
 
 ### Frameworks and Libraries
-- ![nextjs](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white) 
+- ![nextjs](https://img.shields.io/badge/-Next.js-fff?style=flat&logo=Next.js&logoColor=000) 
 - !NestJS NestJS
 - !Laravel Laravel
 - !React React
