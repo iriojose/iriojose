@@ -5,7 +5,7 @@
 
 ## Technologies and Tools
 ### Programming Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) &nbsp; **JavaScript**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black) &nbsp; **JavaScript**
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white) &nbsp; **Go**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) &nbsp; **Python**
 
@@ -29,4 +29,4 @@
 - !AWS AWS
 
 ## Connect with Me
-- ![LinkedIn](https://www.linkedin.com/in/iriogomez/)
+- [LinkedIn](https://www.linkedin.com/in/iriogomez/)
