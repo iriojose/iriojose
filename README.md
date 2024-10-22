@@ -5,12 +5,12 @@
 
 ## Technologies and Tools
 ### Programming Languages
-- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript" width="50" height="25" /> JavaScript
-- <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white" alt="Go" width="50" height="25" /> Go
-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" width="50" height="25" /> Python
+- ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=black) &nbsp; **JavaScript**
+- ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=Go&logoColor=white) &nbsp; **Go**
+- ![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=Python&logoColor=white) &nbsp; **Python**
 
 ### Frameworks and Libraries
-- !Next.js Next.js
+- ![nextjs](https://img.shields.io/badge/-000000?style=flat&logo=Next.js&logoColor=white) Next.js
 - !NestJS NestJS
 - !Laravel Laravel
 - !React React
