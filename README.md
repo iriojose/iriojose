@@ -11,12 +11,12 @@
 
 ### Frameworks and Libraries
 - ![nextjs](https://img.shields.io/badge/-Next.js-fff?style=flat&logo=Next.js&logoColor=000) 
-- !NestJS NestJS
-- !Laravel Laravel
-- !React React
-- !React Native React Native
-- !Vue.js Vue.js
-- !Tailwind CSS Tailwind CSS
+- ![nestjs](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+- ![laravel]()
+- ![react](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=React&logoColor=white)
+- ![react native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=React&logoColor=white)
+- ![vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+- ![tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
 ### Databases
 - !SQL SQL
